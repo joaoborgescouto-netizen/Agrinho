@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agrinho 2025 - Educação e Sustentabilidade</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    color:#333;
+    line-height:1.6;
+}
+
+header{
+    background:linear-gradient(135deg,#2e7d32,#66bb6a);
+    color:white;
+    text-align:center;
+    padding:50px 20px;
+}
+
+header h1{
+    font-size:3rem;
+}
+
+header p{
+    margin-top:10px;
+    font-size:1.2rem;
+}
+
+nav{
+    background:#1b5e20;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#c8e6c9;
+}
+
+section{
+    max-width:1200px;
+    margin:auto;
+    padding:50px 20px;
+}
+
+h2{
+    color:#2e7d32;
+    margin-bottom:20px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    margin:20px 0;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:20px;
+}
+
+img{
+    width:100%;
+    border-radius:10px;
+}
+
+footer{
+    background:#1b5e20;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+ul{
+    margin-left:20px;
+}
+
+.destaque{
+    color:#2e7d32;
+    font-weight:bold;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>AGRINHO 2025</h1>
+    <p>Educação, Sustentabilidade e Conexão entre Campo e Cidade</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#objetivos">Objetivos</a>
+    <a href="#campo">Campo e Cidade</a>
+    <a href="#sustentabilidade">Sustentabilidade</a>
+    <a href="#conclusao">Conclusão</a>
+</nav>
+
+<section id="sobre">
+    <h2>O que é o Agrinho?</h2>
+
+    <div class="card">
+        <p>
+            O <span class="destaque">Programa Agrinho</span> é um dos maiores projetos
+            educacionais do Brasil. Ele foi criado com o objetivo de promover a
+            educação, a cidadania, a responsabilidade social e a sustentabilidade.
+            O programa aproxima estudantes da realidade do campo, mostrando a
+            importância da agricultura, do meio ambiente e das pessoas que produzem
+            os alimentos consumidos diariamente.
+        </p>
+
+        <p>
+            Através de atividades pedagógicas, concursos, pesquisas e projetos,
+            o Agrinho incentiva alunos e professores a refletirem sobre temas
+            fundamentais para a sociedade, como preservação ambiental,
+            alimentação saudável, consumo consciente e desenvolvimento sustentável.
+        </p>
+    </div>
+</section>
+
+<section id="objetivos">
+    <h2>Objetivos do Programa</h2>
+
+    <div class="grid">
+        <div class="card">
+            <h3>Educação de Qualidade</h3>
+            <p>
+                Desenvolver conhecimentos que contribuam para a formação de
+                cidadãos conscientes e responsáveis.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Preservação Ambiental</h3>
+            <p>
+                Incentivar atitudes sustentáveis para proteger os recursos
+                naturais e garantir um futuro melhor.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Valorização do Campo</h3>
+            <p>
+                Mostrar a importância dos agricultores e da produção rural
+                para a economia e alimentação da população.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Cidadania</h3>
+            <p>
+                Promover respeito, solidariedade, ética e participação social.
+            </p>
+        </div>
+    </div>
+</section>
+
+<section id="campo">
+    <h2>A Importância da Conexão entre Campo e Cidade</h2>
+
+    <div class="card">
+        <p>
+            O campo e a cidade dependem um do outro. Enquanto os agricultores
+            produzem alimentos, matérias-primas e recursos essenciais, a cidade
+            oferece tecnologia, serviços, educação e infraestrutura.
+        </p>
+
+        <p>
+            Muitas vezes, as pessoas não percebem que quase tudo o que utilizam
+            diariamente tem origem no campo: frutas, verduras, leite, carne,
+            roupas de algodão e diversos produtos industriais.
+        </p>
+
+        <p>
+            O Agrinho ensina que fortalecer essa relação é fundamental para o
+            desenvolvimento econômico, social e ambiental do país.
+        </p>
+    </div>
+</section>
+
+<section id="sustentabilidade">
+    <h2>Sustentabilidade e Meio Ambiente</h2>
+
+    <div class="grid">
+
+        <div class="card">
+            <h3>Uso Consciente da Água</h3>
+            <p>
+                A água é um recurso indispensável para a vida. Economizar e evitar
+                desperdícios ajuda a preservar esse bem precioso.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Reciclagem</h3>
+            <p>
+                Separar corretamente os resíduos reduz a poluição e contribui
+                para a conservação dos recursos naturais.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Energia Limpa</h3>
+            <p>
+                Fontes renováveis como energia solar e eólica ajudam a reduzir
+                impactos ambientais.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Proteção da Biodiversidade</h3>
+            <p>
+                Preservar animais, plantas e ecossistemas é essencial para o
+                equilíbrio ambiental.
+            </p>
+        </div>
+
+    </div>
+
+    <div class="card">
+        <h3>Ações Sustentáveis que Todos Podem Fazer</h3>
+
+        <ul>
+            <li>Economizar água e energia elétrica.</li>
+            <li>Evitar desperdício de alimentos.</li>
+            <li>Separar materiais recicláveis.</li>
+            <li>Plantar árvores e cuidar das áreas verdes.</li>
+            <li>Utilizar transporte sustentável quando possível.</li>
+            <li>Consumir de forma consciente.</li>
+        </ul>
+    </div>
+</section>
+
+<section id="conclusao">
+    <h2>Conclusão</h2>
+
+    <div class="card">
+        <p>
+            O Agrinho é muito mais do que um programa educacional. Ele representa
+            uma oportunidade de construir conhecimentos, desenvolver valores e
+            promover atitudes que transformam a sociedade.
+        </p>
+
+        <p>
+            Ao compreender a importância da agricultura, da preservação ambiental
+            e da cidadania, os estudantes tornam-se protagonistas na construção
+            de um futuro mais sustentável e equilibrado.
+        </p>
+
+        <p>
+            A união entre educação, responsabilidade social e respeito ao meio
+            ambiente é o caminho para garantir qualidade de vida às próximas
+            gerações.
+        </p>
+    </div>
+</section>
+
+<footer>
+    <p>Projeto Agrinho 2025 | Educação, Campo, Cidade e Sustentabilidade</p>
+</footer>
+
+</body>
+</html>
